@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background: #fed8b1;
+  color: #000;
+}
+
+img {
+  display: block;
+  background: #fff;
+}
+
+p {
+  line-height: 1.4;
+}
+
+.rotate-right {
+  transform: rotate(4deg);
+}
+
+.rotate-left {
+  transform: rotate(-4deg);
+}
